@@ -1,13 +1,11 @@
 # OBS-Live-Webcam-Deepfakes---Virtual-Camera-Deepfakes---Deepfacelive---Ome.tv-Trolling---Snapcamera
-Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes, Omegle Trolling Like Hyphonix,  SomethingAboutChickens, Microfilms and Omegle Live Deepfakes Must Have a 1080ti or 5700xt or 3060 or 6600xt or Better The more Powerful and The Higher The Vram The Better the Deepfakes will Be
+Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes, Omegle Trolling Like Hyphonix, SomethingAboutChickens, Microfilms ve Omegle Live Deepfakes ile ilgili her konuda yardım 1080ti veya 5700xt veya 3060 veya 6600xt veya daha iyisi olmalı Daha Güçlü ve Vram Ne Kadar Yüksekse Deepfakes O Kadar İyi Olur
 
-**Join The Discord http://discord.gg/njSKPUQtFa For Help on Doing This And Also For A Place To Hangout And Talk About this Stuff and Make DFM models and and also Deepface Omegle help and other stuff and **My Name on the Discord is Cxsmo and also the Owner of it If You Want to Contact Me**​**
-
-First, install the latest version of Obs Studio: https://obsproject.com/download and after that, open it up and configure it for full 1080p at 60 frames per second for Nvidia Set both streaming and recording to Nvenc and for AMD do the same thing, but instead set it to hardware h.264. Once that's done, close Obs fully.
+Öncelikle Obs Studio'nun en son sürümünü yükleyin: https://obsproject.com/download ve ardından açıp Nvidia için saniyede 60 kare hızında tam 1080p için yapılandırın. Hem akışı hem de kaydı Nvenc'e ayarlayın ve AMD için aynı şeyi yapın, ancak bunun yerine donanım h.264'e ayarlayın. Bunu yaptıktan sonra Obs'yi tamamen kapatın.
 
 **Now Lets Get To Installing all the Stuff**
 
-First Download https://github.com/Avasam/obs-virtual-cam then run the installer and select 4 virtual cameras **(Credit to Avasam for making this)**
+Öncelikle https://github.com/Avasam/obs-virtual-cam adresini indirin, ardından yükleyiciyi çalıştırın ve 4 sanal kamera seçin **(Bunu hazırlayan Avasam'a teşekkürler)**
 
 Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/releases/tag/V1.3.3-Kite_Edition Then Download the zip and extract it to a folder **(Credit to LudoDash for making this)** or this https://obsproject.com/forum/resources/camrename.1408/
 
